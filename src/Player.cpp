@@ -6,6 +6,7 @@
 void Player::Start()
 {
     m_character = 'P';
+    health = 10;
 }
 
 void Player::Update()
